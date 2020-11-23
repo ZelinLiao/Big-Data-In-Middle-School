@@ -26,7 +26,7 @@ I will try to write this log more interestingly. Some may not be so interesting,
 ### _FAQ_
 
 If you have any suggestions, you can get in touch with me. I'm very willing to do better!
-**MY EMAIL: zliao107@whittleschool.org**//**My CNDS ID: weixin_51970166**
+**MY EMAIL: zliao107@whittleschool.org**//**My CNDS ID: weixin_51970166**//**My Twitter: @Zelin31670272**
 
 ### _Milestone_
 
