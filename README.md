@@ -2,9 +2,9 @@
 
 ## Project Description
 
-English | [简体中文](---) | [繁體中文](---)
+English | [简体中文](https://github.com/ZelinLiao/Big-Data-In-Middle-School/blob/main/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.md) | [繁體中文](https://github.com/ZelinLiao/Big-Data-In-Middle-School/blob/main/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md)
 
-**[Developer log](https://github.com/getgridea/gridea/blob/master/CHANGELOG.md)** | **[Home Page](https://github.com/ZelinLiao/Big-Data-In-Middle-School/)**
+**[Developer log](---)** | **[Home Page](https://github.com/ZelinLiao/Big-Data-In-Middle-School/)**
 
 ### _Announcement_
 
