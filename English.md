@@ -14,7 +14,7 @@ Project officially launched!
 
 This is my first post！I'm so excited to write it down this! : ) 
  I wanna create a coding developer log that everyone can understand.This is a note suitable for all beginners! 
- We will start learning from python, then learn numpy,  pandas and machine learning framewor#ks. Sounds cool! (ARE YOU SURE? lol )
+ We will start learning from python, then learn numpy,  pandas and machine learning framewor#ks. Sounds cool!
 I will try to write this log more interestingly. Some may not be so interesting, BUT you must stick to it! (I believe U! )
 
 ### _Why I write this?_
