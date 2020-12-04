@@ -4,7 +4,7 @@
 
 English | [简体中文](https://github.com/ZelinLiao/Big-Data-In-Middle-School/blob/main/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.md) | [繁體中文](https://github.com/ZelinLiao/Big-Data-In-Middle-School/blob/main/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md)
 
-**[Developer log](---)** | **[Home Page](https://github.com/ZelinLiao/Big-Data-In-Middle-School/)**
+**[Developer log](https://github.com/ZelinLiao/Big-Data-In-Middle-School/projects)** | **[Home Page](https://github.com/ZelinLiao/Big-Data-In-Middle-School/)**
 
 ### _Announcement_
 
@@ -26,7 +26,7 @@ I will try to write this log more interestingly. Some may not be so interesting,
 ### _FAQ_
 
 If you have any suggestions, you can get in touch with me. I'm very willing to do better!
-**My E-mail：zliao107@whittleschool.org** // **CNDS：weixin_51970166**//**Twitter:@Zelin31670272**
+**My E-mail：zliao107@whittleschool.org** // **CNDS：weixin_51970166** // **Twitter:@Zelin31670272** // **Gmail:zelinliao107@gmail.com**
 
 ### _Milestone_
 
