@@ -8,14 +8,14 @@ English | [简体中文](https://github.com/ZelinLiao/Big-Data-In-Middle-School/
 
 ### _Announcement_
 
-Project officially launched!
+Chapter One Complete!
 
 ### _Project Description_
 
 This is my first post！I'm so excited to write it down this! : ) 
  I wanna create a coding developer log that everyone can understand.This is a note suitable for all beginners! 
  We will start learning from python, then learn numpy,  pandas and machine learning framewor#ks. Sounds cool! (ARE YOU SURE? lol )
-I will try to write this log more interestingly. Some may not be so interesting, BUT you must stick to it! (I believe U! )
+I will try to write this log more interestingly. Some may not be so interesting, BUT you must stick to it!
 
 ### _Why I write this?_
 
@@ -31,11 +31,11 @@ If you have any suggestions, you can get in touch with me. I'm very willing to d
 ### _Milestone_
 
 2020/11/23 The project officially started
+2020/12/16 Chapter One Complete
 
 ## _Thanks for your understanding!_ 🐱‍🏍
 
 Best
-
-Michael_Liao
+Zelin_Liao
 
 2020/11/23
